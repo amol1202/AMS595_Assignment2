@@ -63,11 +63,25 @@ Calculates the length of a polynomial curve between two points.
 
 ## Results
 
-The script generates:
-1. A visualization of the Mandelbrot set
-2. A plot of the approximated boundary points
-3. A plot of the polynomial fit to the boundary
-4. The calculated approximate length of the Mandelbrot set boundary
+### Mandelbrot Set Visualization
+![Mandelbrot Set](mandelbrot_results/mandelbrot_set.png)
+
+This image shows the classic Mandelbrot set visualization, with different colors representing the number of iterations before divergence.
+
+### Boundary Points
+![Boundary Points](mandelbrot_results/boundary_points.png)
+
+This plot shows the approximated boundary points of the Mandelbrot set, obtained using the bisection method.
+
+### Polynomial Fit
+![Polynomial Fit](mandelbrot_results/polynomial_fit.png)
+
+This graph displays the 15th order polynomial fit (red line) to the boundary points (blue dots) of the Mandelbrot set.
+
+### Boundary Length
+The approximate length of the Mandelbrot set boundary: 2.2973
+
+This value represents the estimated length of the Mandelbrot set's boundary, calculated by integrating the fitted polynomial curve.
 
 ## Notes
 
