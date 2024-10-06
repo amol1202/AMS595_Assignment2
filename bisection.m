@@ -1,3 +1,5 @@
+% Amol Arora, 116491705
+
 function m = bisection(fn_f, s, e)
     tol = 1e-5;
     while (abs(e - s) > tol)

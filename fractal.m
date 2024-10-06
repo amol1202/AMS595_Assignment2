@@ -1,3 +1,5 @@
+% Amol Arora, 116491705
+
 function it = fractal(c)
     z = 0;
     it = 0;

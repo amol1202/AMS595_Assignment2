@@ -79,7 +79,7 @@ This plot shows the approximated boundary points of the Mandelbrot set, obtained
 This graph displays the 15th order polynomial fit (red line) to the boundary points (blue dots) of the Mandelbrot set.
 
 ### Boundary Length
-The approximate length of the Mandelbrot set boundary: 2.2973
+The approximate length of the Mandelbrot set boundary: 3.3278
 
 This value represents the estimated length of the Mandelbrot set's boundary, calculated by integrating the fitted polynomial curve.
 
